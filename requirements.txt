@@ -1,6 +1,8 @@
 streamlit
 PyPDF2
 transformers
+langchain
 torch
 tensorflow
 keras
+tf-keras
